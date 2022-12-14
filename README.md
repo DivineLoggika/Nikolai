@@ -128,5 +128,4 @@ _Информационное обеспечение ИС_ включает дв
 
 ### Ссылки
 * [Информация. Лекция проектирование информационных систем](https://intuit.ru/studies/courses/2195/55/lecture/1634?page=2)
-* [Системы классификации информации — Студопедия](https://studopedia.ru/7_49137_sistemi-klassifikatsii-informatsii.html)
 * [Информационная база и способы ее организации](https://studfile.net/preview/2915208/page:20/)
