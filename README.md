@@ -217,4 +217,4 @@
 ### Ссылки
 * [Информация. Лекция проектирование информационных систем](https://intuit.ru/studies/courses/2195/55/lecture/1634?page=2)
 * [Информационная база и способы ее организации](https://studfile.net/preview/2915208/page:20/)
-* [eor.dgu.ru/lectures_f/Информационные системыъ/html/theme9.htm](http://eor.dgu.ru/lectures_f/Информационные%20системыъ/html/theme9.htm)
+* [Состав и структура информационного обеспечения (ИО)](http://eor.dgu.ru/lectures_f/Информационные%20системыъ/html/theme9.htm)
