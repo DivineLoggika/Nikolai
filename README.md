@@ -22,7 +22,6 @@ _Информационное обеспечение ИС_ является ср
 _Информационное обеспечение ИС_ включает два комплекса: внемашинное информационное обеспечение и внутримашинное информационное обеспечение (рис. 1).
 
 ![ForRef1](https://github.com/DivineLoggika/Nikolai.github.io/blob/3fc47c216aa5c75b95c36bd2b14e08cef92350a8/ForRef/ForRef1.png)
-![](https://github.com/DivineLoggika/Nikolai.github.io/blob/2fd946f9f31c7332794e499c76368c5669e85d35/Kursach/001.jpg)
 
 **Рис. 1. Два комплекса информационного обеспечения**
 
