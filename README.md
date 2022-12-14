@@ -220,3 +220,4 @@
 * [Информация. Лекция проектирование информационных систем](https://intuit.ru/studies/courses/2195/55/lecture/1634?page=2)
 * [Информационная база и способы ее организации](https://studfile.net/preview/2915208/page:20/)
 * [Состав и структура информационного обеспечения (ИО)](http://eor.dgu.ru/lectures_f/Информационные%20системыъ/html/theme9.htm)
+* [Информационная база :: 1C:Enterprise Development Tools Руководство разработчика](https://its.1c.ru/db/edtdoc#content:10316:hdoc)
